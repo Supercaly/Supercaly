@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Petify](https://play.google.com/store/apps/details?id=com.supercaly.petify) and [Tasky](https://github.com/Supercaly/ASPDM-Project)
+- 🔭 I’m currently working on some random projects
 - 🌱 I’m currently getting a PhD in computer sience
 - 🧑‍💻 I’m looking to collaborate on open source projects
-- ⚡ Fun fact: The First Computer Mouse was Made of Wood.
+- ⚡ Fun fact: The First Gigabyte Drive Cost $40,000.
 
 ### Top Langs
 
